@@ -1,6 +1,4 @@
-# SHADOW
-
-Welcome to **Shadow's World** 👋
+# Shadow
 
 <a href="https://www.instagram.com/a_m_e_0_1/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -9,30 +7,55 @@ Welcome to **Shadow's World** 👋
 ---
 
 ## 📘 About Me
-- **Name:** Abdelrahman Mohamed ( Shadow )
-- **Role:** Full-stack Web Developer
+- **Name:** Abdelrahman Mohamed (Shadow)
+- **Role:** Back-end Developer
+- **Location:** Cairo, Egypt
 - **Languages:** Arabic (Native), English (Fluent)
-- **ACSD-X:** [Acsd-x](https://acsd-x.com)
+- **Passion:** Building robust, scalable server-side applications and APIs
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Core Expertise
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+</div>
+
+---
+
+## 📦 Databases & Caching
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
 </div>
+
+---
+
+## ⚙️ Infrastructure & DevOps
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+</div>
+
+---
+
+## 🛠️ Tools & Practices
+- **API Design:** REST, GraphQL, gRPC
+- **Testing:** Jest, PyTest, JUnit
+- **CI/CD:** GitHub Actions, Jenkins
+- **Monitoring:** Prometheus, Grafana
+- **Security:** OAuth2, JWT, OWASP best practices
+- **Architecture:** Microservices, Event-Driven, Serverless
 
 ---
 
@@ -74,18 +97,11 @@ Welcome to **Shadow's World** 👋
 
 ---
 
-## 🐍 GitHub Snake Game
-<p align="center">
-  <img src="https://files.catbox.moe/gdca75.svg" width="80%" alt="GitHub Snake" />
-</p>
-
----
-
 ## 📌 Roadmap
-- Feature a curated "Top Projects" section
-- Launch personal blog with dev articles
-- Migrate frontend to Next.js 14
+- Curate a **Top Projects** section focused on backend services
+- Publish technical articles on high-load architectures
+- Explore **Serverless** and **Edge Computing** patterns
+- Implement **GraphQL Federation** in microservices
 
----
-
-> Thanks for stopping by. Always building. Always learning.
+> Always evolving. Always optimizing.
+```
