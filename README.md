@@ -76,7 +76,7 @@ Welcome to **Shadow's World** 👋
 
 ## 🐍 GitHub Snake Game
 <p align="center">
-  <img src="shadow/github-snake.svg" width="80%" alt="GitHub Snake" />
+  <img src="https://files.catbox.moe/gdca75.svg" width="80%" alt="GitHub Snake" />
 </p>
 
 ---
