@@ -9,10 +9,10 @@ Welcome to **Shadow's World** 👋
 ---
 
 ## 📘 About Me
-- **Name:** Abdulrahman Mohamed (aka Shadow)
+- **Name:** Abdelrahman Mohamed ( Shadow )
 - **Role:** Full-stack Web Developer
 - **Languages:** Arabic (Native), English (Fluent)
-- **Portfolio:** [instagram.com/a_m_e_0_1](https://www.instagram.com/a_m_e_0_1/)
+- **ACSD-X:** [Acsd-x](https://acsd-x.com)
 
 ---
 
